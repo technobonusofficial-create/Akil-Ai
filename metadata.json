@@ -1,0 +1,6 @@
+{
+  "name": "Akil",
+  "description": "Multilingual voice-to-voice personal AI assistant with native Android app actions and Gemini Live",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
